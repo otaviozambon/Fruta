@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    align-items: center;
+    background-color: cornflowerblue;
+}
+
+h1 {
+    font-size: 55px;
+    font-style: italic;
+    color: aliceblue;
+}
